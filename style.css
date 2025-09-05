@@ -1,5 +1,38 @@
+/* *{
+  justify-items: center;
+  align-items: center;
+} */
+
 body {
   width: 100%;
   height: 100%;
   margin: 0;
+  
 }
+
+
+header{
+  color: red;
+  
+}
+
+nav a{
+  padding: 10px;
+  background-color: grey;
+   justify-items: center;
+  align-items: center;
+}
+
+#featured-property{
+  font-size: 10px;
+  justify-items: center;
+  align-items: center;
+}
+#featured-property p{
+
+   justify-items: center;
+  align-items: center;
+
+}
+
+
